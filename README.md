@@ -4,9 +4,9 @@ Hi I am jeevanantham☺️
 MCA Graduate from Gobi Arts & Science College, Gobichettipalayam
 Passionate about building real-world applications and solving problems
 
-💻 Skills: Python | HTML | CSS | JavaScript
-🚀 Interested in Software Development & Web Technologies
-📈 Continuously learning and improving
+💻 Skills: Python | HTML | CSS | JavaScript<br><br>
+🚀 Interested in Software Development & Web Technologies<br><br>
+📈 Continuously learning and improving<br><br>
 
 
 Leetcode:https://leetcode.com/u/Jeevanantham415<br>📌 Hackerrank:https://www.hackerrank.com/profile/jeeva555vijay<br>🎯How to Reach Me<br>•Email:jeeva555vijay@gmail.com <br>•LinkedIn:https://www.linkedin.com/in/jeevanantham-senthilkumar-530121341<br><br>⚡Thanks for visiting my Profile!!
